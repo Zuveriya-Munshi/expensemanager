@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125885263422",
+    "project_id": "expensetracker-eda40",
+    "storage_bucket": "expensetracker-eda40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125885263422:android:577cb2b4eb278109f02b6f",
+        "android_client_info": {
+          "package_name": "com.example.expensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125885263422-arjd5o00lcitv7grusbidudth9806cof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc14cMUutLZMX4qaNoCQbbHt3JK7wEDCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125885263422-arjd5o00lcitv7grusbidudth9806cof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
